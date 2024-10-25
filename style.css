@@ -1,0 +1,104 @@
+body
+{
+    background-color: brown;
+    margin: 0%;
+    font-family: monospace;
+    font-size: 20px;
+}
+.na:hover{
+color: rgb(29, 120, 56);
+}
+.na{
+color: rgb(29, 16, 0);
+text-decoration: none;
+}
+#nav{
+    display: flex;
+    background-color:brown;
+    color: beige;
+    justify-content: space-around;
+    height: 60px;
+    padding-top: 15px;
+    font-size: 20px;
+}
+li{
+    list-style: none;
+}
+.abc{
+    background-color: beige;
+    color: rgb(29, 16, 0);
+    padding:5px;
+    border-radius: 16px;
+    margin: 50px;
+    height: 200px;
+    padding-top: 100px;
+}
+.efg
+{
+    background-color:  beige;
+    color:rgb(29, 16, 0);
+    padding:5px;
+    border-radius: 16px;
+    margin: 50px;
+    height: 400px;
+    padding-top: 100px;
+}
+h2{
+    font-size: 30px;
+}
+.hij
+{
+    background-color: beige;
+    color:rgb(29, 16, 0);
+    padding:5px;
+    border-radius: 16px;
+    margin: 50px;
+    height: 400px;
+    padding-top: 100px;
+}
+.klm
+{
+    background-color: beige;
+    color:rgb(29, 16, 0);
+    padding:5px;
+    border-radius: 16px;
+    margin: 50px;
+    height: 400px;
+    padding-top: 100px;
+}
+.nop
+{
+    background-color: beige;
+    color: rgb(29, 16, 0);
+    padding:5px;
+    border-radius: 16px;
+    margin: 50px;
+    height: 400px;
+    padding-top: 100px;
+}
+.html
+{
+    border-style: solid;
+    border-color: brown;
+    width: 20%;
+    border-radius: 10%;
+}
+.col1
+{
+    background-color: peachpuff;
+    width: 70px;
+}
+.col2
+{ background-color: peachpuff;
+    width: 60px;
+}
+.col3
+{
+    background-color: peachpuff;
+    width: 50px;
+}
+.col4
+{
+    background-color: peachpuff;
+    width: 20px;
+}
